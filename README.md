@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Angular JS**
 
-- 💬 Ask me about **HTML, CSS, Python, JavaScript, Machine Learning, Data Analysis**
+- 💬 Ask me about **HTML, CSS, Python, JavaScript, Machine Learning, Data Analysis, DevOps**
 
 - 📫 How to reach me **duttarijeet.2k@gmail.com**
 
